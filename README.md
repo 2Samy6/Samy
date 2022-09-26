@@ -1,6 +1,6 @@
-- 👋 Hi, I’m  Samara
-- 👀  Atualmente  resolvi estrar no mundo da programação
-- 🌱 I’m currently learning HTML, JavaScript e CSS.
+- 👋 Hi, I’m  Samara. 
+- Atualmente estou estudando linguagem C.
+- Curso Sistemas de Informação na UNIFESSPA.
 
 <!---
 2Samy6/2Samy6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
